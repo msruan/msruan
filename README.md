@@ -8,7 +8,7 @@
 ## I'm a IT Technician and System Development Student 
 
 - 👨‍💻 I’m studying at IFPI
-- 📚 I’m currently learning the basic about Frontend,😅
+- 📚 I’m currently learning the basics of Frontend😅
 - ⚡ Fun fact: I love sweet popcorn 🎱.
 
 ---
