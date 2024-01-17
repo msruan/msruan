@@ -8,7 +8,8 @@ Hi there, I'm Ruan :V
 ## I'm a IT Technician and System Development Student 
 
 - 👨‍💻 I’m studying at IFPI
-- ⚡ Fun fact:  I really don't know what I'm doing🎱.
+- 🎱 Linguagens multiparadigma >>>>>>>>>>>
+- ⚡ Fun fact:  I really don't know what I'm doing.
 
 ---
 
