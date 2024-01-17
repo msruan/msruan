@@ -8,7 +8,7 @@ Hi there, I'm Ruan :V
 ## I'm a IT Technician and System Development Student 
 
 - 👨‍💻 I’m studying at IFPI
-- 📚 I’m currently learning the basics of Frontend😅
+- 📚 I really don't know what I'm doing😅
 - ⚡ Fun fact: I love sweet popcorn 🎱.
 
 ---
