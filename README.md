@@ -9,7 +9,6 @@ Hi there, I'm Ruan :V
 
 - 👨‍💻 I’m studying at IFPI
 - 🎱 Linguagens multiparadigma >>>>>>>>>>>
-- ⚡ Fun fact:  I really don't know what I'm doing.
 
 ---
 
