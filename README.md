@@ -1,7 +1,5 @@
 <div>
   
-
-Heloo?
 <img align="right" alt="cat gif" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tkYjFubTR1MzZxdWRtNXJqZ3A1MDF1N3N6djR4NnVmNGtxeDJqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ### I'm a IT Technician and System Development Student 
