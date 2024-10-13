@@ -16,7 +16,7 @@
 ---
 </br>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msruan&theme=react&line_height=40&hide=css"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msruan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     </a>
 </div
 
