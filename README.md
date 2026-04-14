@@ -1,13 +1,25 @@
-<div>
-  
-<img align="right" alt="cat gif" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tkYjFubTR1MzZxdWRtNXJqZ3A1MDF1N3N6djR4NnVmNGtxeDJqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+Fullstack developer focused on web and mobile applications.
 
-### I'm a Web Developer and IT Technician 
+Graduated in Systems Analysis and Development.
 
-- Current focused on:
-  <br><br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-</div
+<div> 
+  <a href="https://www.instagram.com/ruan.macdo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ruan.macs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/msruan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 ---
+## Work
+
+- [SmartStock](https://github.com/SmartStockRFID) — RFID inventory system (web + mobile + hardware)
+- [EiVizinho](https://github.com/msruan/eivizinho-app) — community safety platform (backend + mobile)
+- [Laboras](https://github.com/msruan/laboras-nextjs) — fullstack social network (Next.js)
+- [Patro AI](https://github.com/msruan/patro-ai) — chatbot using Gemini API
+
+---
+
+## Stack
+
+TypeScript, Node.js, React.js  
+Flutter (Dart)  
