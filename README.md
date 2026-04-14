@@ -9,15 +9,12 @@ Graduated in Systems Analysis and Development.
  
 </div>
 
----
 ## Work
 
 - [SmartStock](https://github.com/SmartStockRFID) — RFID inventory system (web + mobile + hardware)
 - [EiVizinho](https://github.com/msruan/eivizinho-app) — community safety platform (backend + mobile)
 - [Laboras](https://github.com/msruan/laboras-nextjs) — fullstack social network (Next.js)
 - [Patro AI](https://github.com/msruan/patro-ai) — chatbot using Gemini API
-
----
 
 ## Stack
 
